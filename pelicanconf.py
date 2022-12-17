@@ -1,4 +1,3 @@
-AUTHOR = 'zach valenta'
 SITENAME = 'zjayv'
 SITEURL = ''
 
